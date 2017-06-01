@@ -1,0 +1,28 @@
+body{
+    background-color:#ffccff;
+    }
+
+p {
+    font-family: "Verdana",sans-serif;
+}
+div {
+    text-align: justify;
+}
+
+div img {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+}
+
+div:after {
+    content: '';
+    display: inline-block;
+    width: 100%;
+}
+h1{ 
+    background-color:#7296BF;
+}
+h3{ 
+    text-shadow: 2px 1px #7296BF;
+}
